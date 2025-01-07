@@ -1,0 +1,34 @@
+mkdir test_repo
+cd test_repo
+git init
+git commit 
+git add filename (git add .)
+git status
+git commit -m "filename"
+git checkout -b new
+git merge master
+git checkout master
+git pull origin master
+
+mkdir filename (create folder)
+code . (open folder to visual) 
+ls -a (show hidden file)
+git status (check stage)
+git log (check all git commit)
+git log --oneline
+git checkout id (check detail commit id )
+git checkout branchName
+git revert commitID
+git reset commitID --hard
+git branch -a (have branch check?)
+git branch newbranchname(create branch name)
+
+ctrl+shif+C= copy
+q=quit
+
+
+
+
+git status
+git add filename or git add .
+git commit -m " name" 
